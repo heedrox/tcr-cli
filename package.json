@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "tcr-cli": "./index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jmarti-theinit/tcr-cli.git"
