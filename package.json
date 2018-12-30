@@ -26,5 +26,10 @@
   "bugs": {
     "url": "https://github.com/jmarti-theinit/tcr-cli/issues"
   },
-  "homepage": "https://github.com/jmarti-theinit/tcr-cli#readme"
+  "homepage": "https://github.com/jmarti-theinit/tcr-cli#readme",
+  "dependencies": {
+    "node-watch": "^0.5.9",
+    "readkey": "^1.0.0",
+    "strip-ansi": "^5.0.0"
+  }
 }
