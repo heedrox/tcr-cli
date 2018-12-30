@@ -1,0 +1,30 @@
+{
+  "name": "tcr-cli",
+  "version": "1.0.0",
+  "description": "A TCR (Test Commit Revert) command line utility for making it easier to develop through tcr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmarti-theinit/tcr-cli.git"
+  },
+  "keywords": [
+    "tcr",
+    "test",
+    "commit",
+    "revert",
+    "test",
+    "commit",
+    "revert",
+    "node",
+    "tdd"
+  ],
+  "author": "Jordi Martí (@itortv)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmarti-theinit/tcr-cli/issues"
+  },
+  "homepage": "https://github.com/jmarti-theinit/tcr-cli#readme"
+}
