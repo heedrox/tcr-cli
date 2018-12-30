@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+
 const readkey = require('readkey');
 const { push } = require('./lib/push');
 const tcr = require('./lib/tcr');
