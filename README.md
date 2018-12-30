@@ -18,7 +18,7 @@ https://twitter.com/bberrycarmen/status/1062421008261541888
 
 You can use it inside your node repo.
 - `npm install --save-dev tcr-cli`
-- Add scripts for test, commit, revert and push.
+- Add scripts for test, commit, revert and push, in package.json
 - Execute `tcr-cli`.
 
 You can find an example here:
