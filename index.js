@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 const readkey = require('readkey');
-const { push } = require('./push');
-const tcr = require('./tcr');
+const { push } = require('./lib/push');
+const tcr = require('./lib/tcr');
 
 const options = {
   tcrDir : '.tcr',
