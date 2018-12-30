@@ -28,6 +28,7 @@
   },
   "homepage": "https://github.com/jmarti-theinit/tcr-cli#readme",
   "dependencies": {
+    "diff": "^3.5.0",
     "node-watch": "^0.5.9",
     "readkey": "^1.0.0",
     "strip-ansi": "^5.0.0"
